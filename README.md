@@ -12,3 +12,5 @@ None of the dependency code (node modules)is uploaded so if you'd like to run it
 run the app by typing node app.js
 
 I have it set so that localhost:1234 is the address that the data is displayed
+
+There is also a json file output that outputs the entire rihanna query as a json file
