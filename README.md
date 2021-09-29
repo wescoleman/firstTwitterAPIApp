@@ -1,6 +1,6 @@
 # firstTwitterAPIApp
 messing around with twitter api
-
+#1(a)
 I used the twitter API to make a quick node js web app that would display tweets about specific people and also looked into finding tweets about keywords in specific areas (example: Redsox and Boston)
 
 A large part of this was remembering how to set up the web app and figuring out the Twit library for node js
@@ -14,3 +14,13 @@ run the app by typing node app.js
 I have it set so that localhost:1234 is the address that the data is displayed
 
 There is also a json file output that outputs the entire rihanna query as a json file
+
+#1(b)
+For the second part I added a routes folder to stay orginized and started messing around with the google NLP api in the second route /GNLP
+
+These are asynchronous functions for sentiment analysis on text and it was fun to type in different texts and quotes to feel it out
+
+due to their asynchronicity I was struggling to get the simple res.send() function to output to the page properly because I need to work with that in a synchronus manner instead. later on this may not be an issue as I might be dynamically updating HTML or something along those lines
+
+In this code included the first line of I Feel Pretty from West Side Story and showed the sentiment analysis
+ 
