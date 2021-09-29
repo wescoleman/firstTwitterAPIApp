@@ -1,0 +1,2182 @@
+{
+	"statuses": [
+		{
+			"created_at": "Wed Sep 29 05:02:39 +0000 2021",
+			"id": 1443078749159841800,
+			"id_str": "1443078749159841794",
+			"text": "RT @MbunjuWho: tbh Cardi has become so influential in the fashion industry shes more like Rihanna, WE CAN'T WAIT TO SEE WHAT THEY WEARING T…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MbunjuWho",
+						"name": "Skhumbuzo",
+						"id": 952482542,
+						"id_str": "952482542",
+						"indices": [
+							3,
+							13
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1404929363859198000,
+				"id_str": "1404929363859197952",
+				"name": "diablita 🦚",
+				"screen_name": "astroowap",
+				"location": "Tokyo, Japan",
+				"description": "what goes around comes around #BardiEmpress",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 178,
+				"friends_count": 155,
+				"listed_count": 0,
+				"created_at": "Tue Jun 15 22:30:50 +0000 2021",
+				"favourites_count": 17294,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6935,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1424863918904721410/TymTVmuQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424863918904721410/TymTVmuQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1404929363859197952/1628548439",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Wed Sep 29 04:42:02 +0000 2021",
+				"id": 1443073559098708000,
+				"id_str": "1443073559098707972",
+				"text": "tbh Cardi has become so influential in the fashion industry shes more like Rihanna, WE CAN'T WAIT TO SEE WHAT THEY WEARING TO AN EVENT 🤷😍",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 952482542,
+					"id_str": "952482542",
+					"name": "Skhumbuzo",
+					"screen_name": "MbunjuWho",
+					"location": "Pretoria",
+					"description": "Photography Student/ LGBTIQ",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 1395,
+					"friends_count": 971,
+					"listed_count": 4,
+					"created_at": "Fri Nov 16 21:58:33 +0000 2012",
+					"favourites_count": 593,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 5188,
+					"lang": null,
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1434907918214836232/UR57zppl_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1434907918214836232/UR57zppl_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/952482542/1627666539",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none",
+					"withheld_in_countries": []
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4,
+				"favorite_count": 11,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Wed Sep 29 05:02:15 +0000 2021",
+			"id": 1443078649125777400,
+			"id_str": "1443078649125777411",
+			"text": "@digitalartchick \n@rihanna \n@HoundDawg1842 \n@StreetDawgsNFT \n\n#BreastCancerAwarenessMonth\n\nIn honor and observence… https://t.co/eNylj2HyYT",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BreastCancerAwarenessMonth",
+						"indices": [
+							62,
+							89
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "digitalartchick",
+						"name": "artchick.eth 🔥👠",
+						"id": 986900699366604800,
+						"id_str": "986900699366604800",
+						"indices": [
+							0,
+							16
+						]
+					},
+					{
+						"screen_name": "rihanna",
+						"name": "Rihanna",
+						"id": 79293791,
+						"id_str": "79293791",
+						"indices": [
+							18,
+							26
+						]
+					},
+					{
+						"screen_name": "HoundDawg1842",
+						"name": "StreetCowgirl 🐾",
+						"id": 1418956156718944300,
+						"id_str": "1418956156718944262",
+						"indices": [
+							28,
+							42
+						]
+					},
+					{
+						"screen_name": "StreetDawgsNFT",
+						"name": "𝕾𝖙𝖗𝖊𝖊𝖙 𝕯𝖆𝖜𝖌𝖘",
+						"id": 1402461020388475000,
+						"id_str": "1402461020388474881",
+						"indices": [
+							44,
+							59
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/eNylj2HyYT",
+						"expanded_url": "https://twitter.com/i/web/status/1443078649125777411",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 986900699366604800,
+			"in_reply_to_user_id_str": "986900699366604800",
+			"in_reply_to_screen_name": "digitalartchick",
+			"user": {
+				"id": 1380019698969018400,
+				"id_str": "1380019698969018368",
+				"name": "Dawg HODLer",
+				"screen_name": "Kernalabba",
+				"location": "nunya",
+				"description": "I HODL extremely strong utility NFT'S,\nthe kind that pay you to HODL.\n\nNo paper hands nor lettuce fingers!\n\nN.F.A \n\nhttps://t.co/IOJnH9uGRZ",
+				"url": "https://t.co/IOJnH9uGRZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IOJnH9uGRZ",
+								"expanded_url": "http://streetdawgs.io",
+								"display_url": "streetdawgs.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/IOJnH9uGRZ",
+								"expanded_url": "http://streetdawgs.io",
+								"display_url": "streetdawgs.io",
+								"indices": [
+									116,
+									139
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 112,
+				"friends_count": 548,
+				"listed_count": 1,
+				"created_at": "Thu Apr 08 04:48:39 +0000 2021",
+				"favourites_count": 641,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 816,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1443076982523236352/YZMIASVZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1443076982523236352/YZMIASVZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1380019698969018368/1632735156",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Wed Sep 29 05:02:14 +0000 2021",
+			"id": 1443078645803888600,
+			"id_str": "1443078645803888643",
+			"text": "who tf said billie is better than Rihanna on my tl??? count ya days...",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1352839977533657000,
+				"id_str": "1352839977533657090",
+				"name": "Ja",
+				"screen_name": "QueenFaggiana",
+				"location": "🖤💚💜mümwæksehæs💜💚🖤",
+				"description": "...go ahead and fill that application out for me...",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 389,
+				"friends_count": 899,
+				"listed_count": 1,
+				"created_at": "Sat Jan 23 04:46:08 +0000 2021",
+				"favourites_count": 30241,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2884,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1441664092620697601/H4KgfByg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1441664092620697601/H4KgfByg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1352839977533657090/1632561891",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Wed Sep 29 05:02:07 +0000 2021",
+			"id": 1443078613755179000,
+			"id_str": "1443078613755179009",
+			"text": "@charliekirk11 @TPUSA @rihanna Is there a place online where you can buy the shirt or the pin",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "charliekirk11",
+						"name": "Charlie Kirk",
+						"id": 292929271,
+						"id_str": "292929271",
+						"indices": [
+							0,
+							14
+						]
+					},
+					{
+						"screen_name": "TPUSA",
+						"name": "Turning Point USA",
+						"id": 491719838,
+						"id_str": "491719838",
+						"indices": [
+							15,
+							21
+						]
+					},
+					{
+						"screen_name": "rihanna",
+						"name": "Rihanna",
+						"id": 79293791,
+						"id_str": "79293791",
+						"indices": [
+							22,
+							30
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1442240114348888000,
+			"in_reply_to_status_id_str": "1442240114348888065",
+			"in_reply_to_user_id": 292929271,
+			"in_reply_to_user_id_str": "292929271",
+			"in_reply_to_screen_name": "charliekirk11",
+			"user": {
+				"id": 2752140503,
+				"id_str": "2752140503",
+				"name": "fred smith",
+				"screen_name": "fsmith3665",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4,
+				"friends_count": 64,
+				"listed_count": 0,
+				"created_at": "Wed Aug 27 00:08:27 +0000 2014",
+				"favourites_count": 32,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 93,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+				"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": true,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Wed Sep 29 05:02:04 +0000 2021",
+			"id": 1443078602862436400,
+			"id_str": "1443078602862436353",
+			"text": "RT @rihanna: When there's no changing the fact that I'm me, and they're well...they're them. http://t.co/RCF4TqxN69",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rihanna",
+						"name": "Rihanna",
+						"id": 79293791,
+						"id_str": "79293791",
+						"indices": [
+							3,
+							11
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 474795761410928640,
+						"id_str": "474795761410928640",
+						"indices": [
+							93,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/BpbQOrvCcAA-mv5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/BpbQOrvCcAA-mv5.jpg",
+						"url": "http://t.co/RCF4TqxN69",
+						"display_url": "pic.twitter.com/RCF4TqxN69",
+						"expanded_url": "https://twitter.com/rihanna/status/474795774652334080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 635,
+								"h": 635,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 635,
+								"h": 635,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 635,
+								"h": 635,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 474795774652334100,
+						"source_status_id_str": "474795774652334080",
+						"source_user_id": 79293791,
+						"source_user_id_str": "79293791"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 474795761410928640,
+						"id_str": "474795761410928640",
+						"indices": [
+							93,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/BpbQOrvCcAA-mv5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/BpbQOrvCcAA-mv5.jpg",
+						"url": "http://t.co/RCF4TqxN69",
+						"display_url": "pic.twitter.com/RCF4TqxN69",
+						"expanded_url": "https://twitter.com/rihanna/status/474795774652334080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 635,
+								"h": 635,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 635,
+								"h": 635,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 635,
+								"h": 635,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 474795774652334100,
+						"source_status_id_str": "474795774652334080",
+						"source_user_id": 79293791,
+						"source_user_id_str": "79293791"
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17918967,
+				"id_str": "17918967",
+				"name": "D.",
+				"screen_name": "washitabacan",
+				"location": "LP9|12thHouse|♈️♓️",
+				"description": "“Time has told me, you’re a rare rare find. A troubled cure for a troubled mind.” 🇨🇱",
+				"url": "https://t.co/HE8pMjFmjt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HE8pMjFmjt",
+								"expanded_url": "http://instagram.com/ifell4her",
+								"display_url": "instagram.com/ifell4her",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 401,
+				"friends_count": 496,
+				"listed_count": 5,
+				"created_at": "Sat Dec 06 08:02:06 +0000 2008",
+				"favourites_count": 75119,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 29131,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1437276116436221954/nzQkMASq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437276116436221954/nzQkMASq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17918967/1575440500",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "7D7D73",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Fri Jun 06 06:11:48 +0000 2014",
+				"id": 474795774652334100,
+				"id_str": "474795774652334080",
+				"text": "When there's no changing the fact that I'm me, and they're well...they're them. http://t.co/RCF4TqxN69",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 474795761410928640,
+							"id_str": "474795761410928640",
+							"indices": [
+								80,
+								102
+							],
+							"media_url": "http://pbs.twimg.com/media/BpbQOrvCcAA-mv5.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/BpbQOrvCcAA-mv5.jpg",
+							"url": "http://t.co/RCF4TqxN69",
+							"display_url": "pic.twitter.com/RCF4TqxN69",
+							"expanded_url": "https://twitter.com/rihanna/status/474795774652334080/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 635,
+									"h": 635,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 635,
+									"h": 635,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 635,
+									"h": 635,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 474795761410928640,
+							"id_str": "474795761410928640",
+							"indices": [
+								80,
+								102
+							],
+							"media_url": "http://pbs.twimg.com/media/BpbQOrvCcAA-mv5.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/BpbQOrvCcAA-mv5.jpg",
+							"url": "http://t.co/RCF4TqxN69",
+							"display_url": "pic.twitter.com/RCF4TqxN69",
+							"expanded_url": "https://twitter.com/rihanna/status/474795774652334080/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 635,
+									"h": 635,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 635,
+									"h": 635,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 635,
+									"h": 635,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 79293791,
+					"id_str": "79293791",
+					"name": "Rihanna",
+					"screen_name": "rihanna",
+					"location": "",
+					"description": "",
+					"url": "https://t.co/wgl9TsN1Dm",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/wgl9TsN1Dm",
+									"expanded_url": "https://ri-hanna.io/savagex",
+									"display_url": "ri-hanna.io/savagex",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 103066757,
+					"friends_count": 1001,
+					"listed_count": 93922,
+					"created_at": "Fri Oct 02 21:37:33 +0000 2009",
+					"favourites_count": 1002,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 10582,
+					"lang": null,
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": true,
+					"profile_background_color": "131516",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1133109643734130688/BwioAwkz_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133109643734130688/BwioAwkz_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/79293791/1612206107",
+					"profile_link_color": "009999",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "EFEFEF",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular",
+					"withheld_in_countries": []
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 59814,
+				"favorite_count": 76940,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": true,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 59814,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Wed Sep 29 05:01:55 +0000 2021",
+			"id": 1443078563150934000,
+			"id_str": "1443078563150934020",
+			"text": "@NASTYSKYE Rihanna!?",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NASTYSKYE",
+						"name": "not ya mans",
+						"id": 1052743270877618200,
+						"id_str": "1052743270877618177",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "is",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1443067538833805300,
+			"in_reply_to_status_id_str": "1443067538833805315",
+			"in_reply_to_user_id": 1052743270877618200,
+			"in_reply_to_user_id_str": "1052743270877618177",
+			"in_reply_to_screen_name": "NASTYSKYE",
+			"user": {
+				"id": 38043964,
+				"id_str": "38043964",
+				"name": "Black Person Expert",
+				"screen_name": "OneBaddDude",
+				"location": "North Carolina",
+				"description": "Husband of @rihanna\nlikeable Asshole ♌\n#PSN cadillacofmen\n#NOH8 🏳️‍🌈\n#BLM ✊🏽",
+				"url": "https://t.co/pX99lyG48W",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pX99lyG48W",
+								"expanded_url": "http://Instagram.com/OneBaddDude",
+								"display_url": "Instagram.com/OneBaddDude",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1819,
+				"friends_count": 1636,
+				"listed_count": 59,
+				"created_at": "Tue May 05 22:54:37 +0000 2009",
+				"favourites_count": 29887,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 57998,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410922623631073281/SxqGG-82_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410922623631073281/SxqGG-82_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38043964/1632174938",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "D40404",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "is"
+		},
+		{
+			"created_at": "Wed Sep 29 05:01:54 +0000 2021",
+			"id": 1443078562114900000,
+			"id_str": "1443078562114899971",
+			"text": "RT @TokoGa12: Rihanna as Squid Game's Front Man https://t.co/V18z34Scyb",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TokoGa12",
+						"name": "T",
+						"id": 4393324996,
+						"id_str": "4393324996",
+						"indices": [
+							3,
+							12
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1442769131120517000,
+						"id_str": "1442769131120517126",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/FAW-4XFWYAYIQHM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FAW-4XFWYAYIQHM.jpg",
+						"url": "https://t.co/V18z34Scyb",
+						"display_url": "pic.twitter.com/V18z34Scyb",
+						"expanded_url": "https://twitter.com/TokoGa12/status/1442769279875698691/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 634,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 421,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 634,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1442769279875698700,
+						"source_status_id_str": "1442769279875698691",
+						"source_user_id": 4393324996,
+						"source_user_id_str": "4393324996"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1442769131120517000,
+						"id_str": "1442769131120517126",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/FAW-4XFWYAYIQHM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FAW-4XFWYAYIQHM.jpg",
+						"url": "https://t.co/V18z34Scyb",
+						"display_url": "pic.twitter.com/V18z34Scyb",
+						"expanded_url": "https://twitter.com/TokoGa12/status/1442769279875698691/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 634,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 421,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 634,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1442769279875698700,
+						"source_status_id_str": "1442769279875698691",
+						"source_user_id": 4393324996,
+						"source_user_id_str": "4393324996"
+					},
+					{
+						"id": 1442769255246749700,
+						"id_str": "1442769255246749698",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/FAW-_lfWYAI2XJw.png",
+						"media_url_https": "https://pbs.twimg.com/media/FAW-_lfWYAI2XJw.png",
+						"url": "https://t.co/V18z34Scyb",
+						"display_url": "pic.twitter.com/V18z34Scyb",
+						"expanded_url": "https://twitter.com/TokoGa12/status/1442769279875698691/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 500,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 500,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"source_status_id": 1442769279875698700,
+						"source_status_id_str": "1442769279875698691",
+						"source_user_id": 4393324996,
+						"source_user_id_str": "4393324996"
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 54836691,
+				"id_str": "54836691",
+				"name": "Sarai Christina",
+				"screen_name": "csw3147",
+				"location": "St. Louis, MO",
+				"description": "actress/writer/future film director. love family, friends and life :) #TeamKpop",
+				"url": "http://t.co/fI6iUCP0sE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/fI6iUCP0sE",
+								"expanded_url": "http://youtube.com/bittersweet3147",
+								"display_url": "youtube.com/bittersweet3147",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 167,
+				"friends_count": 446,
+				"listed_count": 8,
+				"created_at": "Wed Jul 08 08:14:46 +0000 2009",
+				"favourites_count": 26731,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 44570,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1290044107776286721/5QR0R_U7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1290044107776286721/5QR0R_U7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/54836691/1609303954",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Tue Sep 28 08:32:56 +0000 2021",
+				"id": 1442769279875698700,
+				"id_str": "1442769279875698691",
+				"text": "Rihanna as Squid Game's Front Man https://t.co/V18z34Scyb",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 1442769131120517000,
+							"id_str": "1442769131120517126",
+							"indices": [
+								34,
+								57
+							],
+							"media_url": "http://pbs.twimg.com/media/FAW-4XFWYAYIQHM.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/FAW-4XFWYAYIQHM.jpg",
+							"url": "https://t.co/V18z34Scyb",
+							"display_url": "pic.twitter.com/V18z34Scyb",
+							"expanded_url": "https://twitter.com/TokoGa12/status/1442769279875698691/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 634,
+									"h": 1024,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 421,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 634,
+									"h": 1024,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1442769131120517000,
+							"id_str": "1442769131120517126",
+							"indices": [
+								34,
+								57
+							],
+							"media_url": "http://pbs.twimg.com/media/FAW-4XFWYAYIQHM.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/FAW-4XFWYAYIQHM.jpg",
+							"url": "https://t.co/V18z34Scyb",
+							"display_url": "pic.twitter.com/V18z34Scyb",
+							"expanded_url": "https://twitter.com/TokoGa12/status/1442769279875698691/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 634,
+									"h": 1024,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 421,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 634,
+									"h": 1024,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 1442769255246749700,
+							"id_str": "1442769255246749698",
+							"indices": [
+								34,
+								57
+							],
+							"media_url": "http://pbs.twimg.com/media/FAW-_lfWYAI2XJw.png",
+							"media_url_https": "https://pbs.twimg.com/media/FAW-_lfWYAI2XJw.png",
+							"url": "https://t.co/V18z34Scyb",
+							"display_url": "pic.twitter.com/V18z34Scyb",
+							"expanded_url": "https://twitter.com/TokoGa12/status/1442769279875698691/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 500,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 500,
+									"h": 680,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 500,
+									"h": 680,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								}
+							}
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 4393324996,
+					"id_str": "4393324996",
+					"name": "T",
+					"screen_name": "TokoGa12",
+					"location": "",
+					"description": "",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3879,
+					"friends_count": 343,
+					"listed_count": 14,
+					"created_at": "Sun Dec 06 11:12:27 +0000 2015",
+					"favourites_count": 8813,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 10367,
+					"lang": null,
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1269709323732729857/zSCw5GRU_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269709323732729857/zSCw5GRU_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/4393324996/1631799217",
+					"profile_link_color": "1B95E0",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "000000",
+					"profile_text_color": "000000",
+					"profile_use_background_image": false,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none",
+					"withheld_in_countries": []
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 310,
+				"favorite_count": 2847,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 310,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Wed Sep 29 05:01:38 +0000 2021",
+			"id": 1443078492837585000,
+			"id_str": "1443078492837584898",
+			"text": "RT @FentyCop: the Rihanna middle-finger cinematic universe https://t.co/VDJSajUWVv",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "FentyCop",
+						"name": "Fenty Cop",
+						"id": 2650895491,
+						"id_str": "2650895491",
+						"indices": [
+							3,
+							12
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1442965727955206100,
+						"id_str": "1442965727955206146",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/FAZxrzXVQAIcWNI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FAZxrzXVQAIcWNI.jpg",
+						"url": "https://t.co/VDJSajUWVv",
+						"display_url": "pic.twitter.com/VDJSajUWVv",
+						"expanded_url": "https://twitter.com/FentyCop/status/1442965740135534592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 953,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1124,
+								"h": 1415,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 540,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1442965740135534600,
+						"source_status_id_str": "1442965740135534592",
+						"source_user_id": 2650895491,
+						"source_user_id_str": "2650895491"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1442965727955206100,
+						"id_str": "1442965727955206146",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/FAZxrzXVQAIcWNI.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FAZxrzXVQAIcWNI.jpg",
+						"url": "https://t.co/VDJSajUWVv",
+						"display_url": "pic.twitter.com/VDJSajUWVv",
+						"expanded_url": "https://twitter.com/FentyCop/status/1442965740135534592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 953,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1124,
+								"h": 1415,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 540,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1442965740135534600,
+						"source_status_id_str": "1442965740135534592",
+						"source_user_id": 2650895491,
+						"source_user_id_str": "2650895491"
+					},
+					{
+						"id": 1442965727938375700,
+						"id_str": "1442965727938375690",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/media/FAZxrzTUcAoJOdB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FAZxrzTUcAoJOdB.jpg",
+						"url": "https://t.co/VDJSajUWVv",
+						"display_url": "pic.twitter.com/VDJSajUWVv",
+						"expanded_url": "https://twitter.com/FentyCop/status/1442965740135534592/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 470,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 926,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 926,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1442965740135534600,
+						"source_status_id_str": "1442965740135534592",
+						"source_user_id": 2650895491,
+						"source_user_id_str": "2650895491"
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1296346358304178200,
+				"id_str": "1296346358304178177",
+				"name": "GoddessRihanna",
+				"screen_name": "montrods",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16,
+				"friends_count": 68,
+				"listed_count": 0,
+				"created_at": "Thu Aug 20 07:20:52 +0000 2020",
+				"favourites_count": 532,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 106,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1425119564438851592/o3lbgGXH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1425119564438851592/o3lbgGXH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1296346358304178177/1628609981",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Tue Sep 28 21:33:36 +0000 2021",
+				"id": 1442965740135534600,
+				"id_str": "1442965740135534592",
+				"text": "the Rihanna middle-finger cinematic universe https://t.co/VDJSajUWVv",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 1442965727955206100,
+							"id_str": "1442965727955206146",
+							"indices": [
+								45,
+								68
+							],
+							"media_url": "http://pbs.twimg.com/media/FAZxrzXVQAIcWNI.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/FAZxrzXVQAIcWNI.jpg",
+							"url": "https://t.co/VDJSajUWVv",
+							"display_url": "pic.twitter.com/VDJSajUWVv",
+							"expanded_url": "https://twitter.com/FentyCop/status/1442965740135534592/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 953,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1124,
+									"h": 1415,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 540,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1442965727955206100,
+							"id_str": "1442965727955206146",
+							"indices": [
+								45,
+								68
+							],
+							"media_url": "http://pbs.twimg.com/media/FAZxrzXVQAIcWNI.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/FAZxrzXVQAIcWNI.jpg",
+							"url": "https://t.co/VDJSajUWVv",
+							"display_url": "pic.twitter.com/VDJSajUWVv",
+							"expanded_url": "https://twitter.com/FentyCop/status/1442965740135534592/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 953,
+									"h": 1200,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 1124,
+									"h": 1415,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 540,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 1442965727938375700,
+							"id_str": "1442965727938375690",
+							"indices": [
+								45,
+								68
+							],
+							"media_url": "http://pbs.twimg.com/media/FAZxrzTUcAoJOdB.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/FAZxrzTUcAoJOdB.jpg",
+							"url": "https://t.co/VDJSajUWVv",
+							"display_url": "pic.twitter.com/VDJSajUWVv",
+							"expanded_url": "https://twitter.com/FentyCop/status/1442965740135534592/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 470,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 640,
+									"h": 926,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 640,
+									"h": 926,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 2650895491,
+					"id_str": "2650895491",
+					"name": "Fenty Cop",
+					"screen_name": "FentyCop",
+					"location": "© to owners of content•",
+					"description": "•non affiliated FAN ACCOUNT for the baddest girl on earth•",
+					"url": "https://t.co/3cHaUmrrIJ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/3cHaUmrrIJ",
+									"expanded_url": "https://instagram.com/fentycop?igshid=1mnwz4qhi7pfz",
+									"display_url": "instagram.com/fentycop?igshi…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 41875,
+					"friends_count": 19,
+					"listed_count": 78,
+					"created_at": "Wed Jul 16 12:18:43 +0000 2014",
+					"favourites_count": 371,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 1302,
+					"lang": null,
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FF6699",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1410539267915497475/Q_1-8ilJ_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410539267915497475/Q_1-8ilJ_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/2650895491/1632065252",
+					"profile_link_color": "B40B43",
+					"profile_sidebar_border_color": "CC3366",
+					"profile_sidebar_fill_color": "E5507E",
+					"profile_text_color": "362720",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none",
+					"withheld_in_countries": []
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 229,
+				"favorite_count": 1586,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 229,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Wed Sep 29 05:01:37 +0000 2021",
+			"id": 1443078490622890000,
+			"id_str": "1443078490622889991",
+			"text": "@theeluvvbelow Im tryna be cool with Rihanna then https://t.co/nZbYdOMxns",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "theeluvvbelow",
+						"name": "project patti labelle",
+						"id": 137484082,
+						"id_str": "137484082",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1443078473115857000,
+						"id_str": "1443078473115856896",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FAbYOb0VcAAfZRw.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FAbYOb0VcAAfZRw.jpg",
+						"url": "https://t.co/nZbYdOMxns",
+						"display_url": "pic.twitter.com/nZbYdOMxns",
+						"expanded_url": "https://twitter.com/IVelvetjones/status/1443078490622889991/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1443078473115857000,
+						"id_str": "1443078473115856896",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FAbYOb0VcAAfZRw.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FAbYOb0VcAAfZRw.jpg",
+						"url": "https://t.co/nZbYdOMxns",
+						"display_url": "pic.twitter.com/nZbYdOMxns",
+						"expanded_url": "https://twitter.com/IVelvetjones/status/1443078490622889991/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/FAbYOb0VcAAfZRw.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1443077124290613200,
+			"in_reply_to_status_id_str": "1443077124290613254",
+			"in_reply_to_user_id": 137484082,
+			"in_reply_to_user_id_str": "137484082",
+			"in_reply_to_screen_name": "theeluvvbelow",
+			"user": {
+				"id": 1413916660805693400,
+				"id_str": "1413916660805693446",
+				"name": "IWas_VelvetJones",
+				"screen_name": "IVelvetjones",
+				"location": "Long Beach, CA",
+				"description": "They got @Im_VelvetJones out the paint,so this where I’m at #TarHeels",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 309,
+				"friends_count": 559,
+				"listed_count": 1,
+				"created_at": "Sat Jul 10 17:43:08 +0000 2021",
+				"favourites_count": 469,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3406,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1427146568671457280/GXARBBAf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1427146568671457280/GXARBBAf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413916660805693446/1627459031",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Wed Sep 29 05:01:35 +0000 2021",
+			"id": 1443078478551789600,
+			"id_str": "1443078478551789571",
+			"text": "It’s the way Rihanna gave me seggs emotions in the mall today. Slightly uncalled for",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 773710311069220900,
+				"id_str": "773710311069220865",
+				"name": "PRINCESSA",
+				"screen_name": "LeahDup_",
+				"location": "Your thoughts, & Houston TX",
+				"description": "pretty boy mistress👸🏿",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28,
+				"friends_count": 72,
+				"listed_count": 0,
+				"created_at": "Thu Sep 08 02:31:27 +0000 2016",
+				"favourites_count": 9552,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 877,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1437406281602670603/pOrCLwp2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437406281602670603/pOrCLwp2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/773710311069220865/1620719989",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1c69a67ad480e1b1",
+				"url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json",
+				"place_type": "city",
+				"name": "Houston",
+				"full_name": "Houston, TX",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-95.823268,
+								29.522325
+							],
+							[
+								-95.069705,
+								29.522325
+							],
+							[
+								-95.069705,
+								30.1546646
+							],
+							[
+								-95.823268,
+								30.1546646
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		}
+	],
+	"search_metadata": {
+		"completed_in": 0.051,
+		"max_id": 1443078749159841800,
+		"max_id_str": "1443078749159841794",
+		"next_results": "?max_id=1443078478551789570&q=Rihanna%20since%3A2021-09-25&count=10&include_entities=1",
+		"query": "Rihanna+since%3A2021-09-25",
+		"refresh_url": "?since_id=1443078749159841794&q=Rihanna%20since%3A2021-09-25&include_entities=1",
+		"count": 10,
+		"since_id": 0,
+		"since_id_str": "0"
+	}
+}

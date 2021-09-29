@@ -1,0 +1,2415 @@
+{
+	"statuses": [
+		{
+			"created_at": "Tue Sep 28 20:12:27 +0000 2021",
+			"id": 1442945320648777700,
+			"id_str": "1442945320648777729",
+			"text": "RT @guardian: ‘For us, Black hair is Black history’: Rihanna’s fashion show sparks row for styling white models’ hair in braids https://t.c…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "guardian",
+						"name": "The Guardian",
+						"id": 87818409,
+						"id_str": "87818409",
+						"indices": [
+							3,
+							12
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 90428264,
+				"id_str": "90428264",
+				"name": "Othello",
+				"screen_name": "Dahmolah",
+				"location": "Lagos, Nigeria",
+				"description": "Egalitarian | Devil’s Advocate | Gamer | Product Espionage | abeg: @dahmolah",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2649,
+				"friends_count": 824,
+				"listed_count": 43,
+				"created_at": "Mon Nov 16 16:33:57 +0000 2009",
+				"favourites_count": 166,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 680431,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1418252043542798343/Q1RrER8N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1418252043542798343/Q1RrER8N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/90428264/1434179474",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Tue Sep 28 20:00:19 +0000 2021",
+				"id": 1442942264603332600,
+				"id_str": "1442942264603332608",
+				"text": "‘For us, Black hair is Black history’: Rihanna’s fashion show sparks row for styling white models’ hair in braids https://t.co/yFENtOUULB",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/yFENtOUULB",
+							"expanded_url": "https://www.theguardian.com/fashion/2021/sep/28/for-us-black-hair-is-black-history-rihannas-fashion-show-sparks-row-for-styling-white-models-hair-in-braids?utm_term=Autofeed&CMP=twt_gu&utm_medium&utm_source=Twitter#Echobox=1632858035",
+							"display_url": "theguardian.com/fashion/2021/s…",
+							"indices": [
+								114,
+								137
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 87818409,
+					"id_str": "87818409",
+					"name": "The Guardian",
+					"screen_name": "guardian",
+					"location": "London",
+					"description": "The need for independent journalism has never been greater. Become a Guardian supporter: https://t.co/gWyuUVlObq",
+					"url": "https://t.co/c53pnmnuIT",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/c53pnmnuIT",
+									"expanded_url": "https://www.theguardian.com",
+									"display_url": "theguardian.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/gWyuUVlObq",
+									"expanded_url": "https://support.theguardian.com",
+									"display_url": "support.theguardian.com",
+									"indices": [
+										89,
+										112
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 9930520,
+					"friends_count": 1063,
+					"listed_count": 66737,
+					"created_at": "Thu Nov 05 23:49:19 +0000 2009",
+					"favourites_count": 136,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 701450,
+					"lang": null,
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": true,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/87818409/1620214786",
+					"profile_link_color": "005789",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "CAE3F3",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular",
+					"withheld_in_countries": []
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 16,
+				"favorite_count": 106,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Sep 28 20:12:27 +0000 2021",
+			"id": 1442945318862004200,
+			"id_str": "1442945318862004231",
+			"text": "Enjoy with the best music all over the world. Now playing Rihanna - Good Girl Gone Bad: Reloaded - Disturbia Rihann… https://t.co/fuG6ENMXH9",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fuG6ENMXH9",
+						"expanded_url": "https://twitter.com/i/web/status/1442945318862004231",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"https://autopo.st\" rel=\"nofollow\">autopost top_radio_</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 886905406139887600,
+				"id_str": "886905406139887616",
+				"name": "@Top_Radio_",
+				"screen_name": "Top_Radio_",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/BxOx9o3F3v",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BxOx9o3F3v",
+								"expanded_url": "https://www.onlyrockradio.com",
+								"display_url": "onlyrockradio.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 240,
+				"friends_count": 125,
+				"listed_count": 6,
+				"created_at": "Mon Jul 17 11:08:21 +0000 2017",
+				"favourites_count": 9,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1199263,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/913385939300478976/HKY9PDFL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/913385939300478976/HKY9PDFL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/886905406139887616/1506603177",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Sep 28 20:12:16 +0000 2021",
+			"id": 1442945272657571800,
+			"id_str": "1442945272657571845",
+			"text": "just found out katy perry is older than rihanna…that just feels wrong idk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1244433389026971600,
+				"id_str": "1244433389026971651",
+				"name": "m 🤍",
+				"screen_name": "brutalgxmez",
+				"location": "",
+				"description": "no because you suck",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 617,
+				"friends_count": 743,
+				"listed_count": 2,
+				"created_at": "Mon Mar 30 01:17:08 +0000 2020",
+				"favourites_count": 20659,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8663,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1421192126927446018/viq5NoZI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1421192126927446018/viq5NoZI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1244433389026971651/1610989772",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Sep 28 20:12:15 +0000 2021",
+			"id": 1442945268329042000,
+			"id_str": "1442945268329041922",
+			"text": "RT @SexoPlacentero: Rihanna https://t.co/izJzh3jdTX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SexoPlacentero",
+						"name": "niñas lindas para curar la depresión",
+						"id": 443891291,
+						"id_str": "443891291",
+						"indices": [
+							3,
+							18
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1430550763290382300,
+						"id_str": "1430550763290382340",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/E9pWVv8WUAQdAUT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E9pWVv8WUAQdAUT.jpg",
+						"url": "https://t.co/izJzh3jdTX",
+						"display_url": "pic.twitter.com/izJzh3jdTX",
+						"expanded_url": "https://twitter.com/SexoPlacentero/status/1430550770148073477/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 462,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 801,
+								"h": 1178,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 801,
+								"h": 1178,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1430550770148073500,
+						"source_status_id_str": "1430550770148073477",
+						"source_user_id": 443891291,
+						"source_user_id_str": "443891291"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1430550763290382300,
+						"id_str": "1430550763290382340",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/E9pWVv8WUAQdAUT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E9pWVv8WUAQdAUT.jpg",
+						"url": "https://t.co/izJzh3jdTX",
+						"display_url": "pic.twitter.com/izJzh3jdTX",
+						"expanded_url": "https://twitter.com/SexoPlacentero/status/1430550770148073477/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 462,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 801,
+								"h": 1178,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 801,
+								"h": 1178,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1430550770148073500,
+						"source_status_id_str": "1430550770148073477",
+						"source_user_id": 443891291,
+						"source_user_id_str": "443891291"
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "is",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1418713806885335000,
+				"id_str": "1418713806885335041",
+				"name": "gabi",
+				"screen_name": "prettyaddict1on",
+				"location": "seu coração",
+				"description": "",
+				"url": "https://t.co/w1n3k1bEzk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/w1n3k1bEzk",
+								"expanded_url": "https://instagram.com/gabriellefernandests",
+								"display_url": "instagram.com/gabrielleferna…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 179,
+				"friends_count": 277,
+				"listed_count": 1,
+				"created_at": "Fri Jul 23 23:25:16 +0000 2021",
+				"favourites_count": 16525,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6178,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1440384916638744582/fFMlDLxT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440384916638744582/fFMlDLxT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1418713806885335041/1632540040",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Wed Aug 25 15:20:56 +0000 2021",
+				"id": 1430550770148073500,
+				"id_str": "1430550770148073477",
+				"text": "Rihanna https://t.co/izJzh3jdTX",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 1430550763290382300,
+							"id_str": "1430550763290382340",
+							"indices": [
+								8,
+								31
+							],
+							"media_url": "http://pbs.twimg.com/media/E9pWVv8WUAQdAUT.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/E9pWVv8WUAQdAUT.jpg",
+							"url": "https://t.co/izJzh3jdTX",
+							"display_url": "pic.twitter.com/izJzh3jdTX",
+							"expanded_url": "https://twitter.com/SexoPlacentero/status/1430550770148073477/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 462,
+									"h": 680,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 801,
+									"h": 1178,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 801,
+									"h": 1178,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1430550763290382300,
+							"id_str": "1430550763290382340",
+							"indices": [
+								8,
+								31
+							],
+							"media_url": "http://pbs.twimg.com/media/E9pWVv8WUAQdAUT.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/E9pWVv8WUAQdAUT.jpg",
+							"url": "https://t.co/izJzh3jdTX",
+							"display_url": "pic.twitter.com/izJzh3jdTX",
+							"expanded_url": "https://twitter.com/SexoPlacentero/status/1430550770148073477/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 462,
+									"h": 680,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 801,
+									"h": 1178,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 801,
+									"h": 1178,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "is",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 443891291,
+					"id_str": "443891291",
+					"name": "niñas lindas para curar la depresión",
+					"screen_name": "SexoPlacentero",
+					"location": "",
+					"description": "Si tienes la mente abierta, esto es para ti.",
+					"url": "https://t.co/OpOZGvWHTZ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/OpOZGvWHTZ",
+									"expanded_url": "http://bit.ly/2vYkXFH",
+									"display_url": "bit.ly/2vYkXFH",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 587322,
+					"friends_count": 0,
+					"listed_count": 902,
+					"created_at": "Thu Dec 22 17:14:04 +0000 2011",
+					"favourites_count": 552,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 63595,
+					"lang": null,
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1371890697716916225/oweA1WNC_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1371890697716916225/oweA1WNC_normal.jpg",
+					"profile_link_color": "ABB8C2",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "E6F6F9",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none",
+					"withheld_in_countries": []
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 112,
+				"favorite_count": 1746,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": true,
+				"lang": "is"
+			},
+			"is_quote_status": false,
+			"retweet_count": 112,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "is"
+		},
+		{
+			"created_at": "Tue Sep 28 20:12:11 +0000 2021",
+			"id": 1442945251849638000,
+			"id_str": "1442945251849637888",
+			"text": "RT @HeyShimmy: The way people are ready to cancel Rihanna because she wore a shirt encouraging us to think is all I need to know about soci…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HeyShimmy",
+						"name": "Glo Coco & Mango Long 🇩🇲",
+						"id": 1544471214,
+						"id_str": "1544471214",
+						"indices": [
+							3,
+							13
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 903667653075546100,
+				"id_str": "903667653075546112",
+				"name": "lms",
+				"screen_name": "lms_lims",
+				"location": "",
+				"description": "proud Indigenous....",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38,
+				"friends_count": 58,
+				"listed_count": 0,
+				"created_at": "Fri Sep 01 17:15:32 +0000 2017",
+				"favourites_count": 7014,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2274,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1424453145426419714/sxNjsKMe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424453145426419714/sxNjsKMe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/903667653075546112/1539280894",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Sun Sep 26 11:02:28 +0000 2021",
+				"id": 1442082137788739600,
+				"id_str": "1442082137788739601",
+				"text": "The way people are ready to cancel Rihanna because she wore a shirt encouraging us to think is all I need to know about society.",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": []
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1544471214,
+					"id_str": "1544471214",
+					"name": "Glo Coco & Mango Long 🇩🇲",
+					"screen_name": "HeyShimmy",
+					"location": "Earth",
+					"description": "Student of the Sacral and the Sacred. Numerologist. Truth Seeker. Island Gyal. She/Her. 🌍♎️🎱✊🏽",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 552,
+					"friends_count": 574,
+					"listed_count": 6,
+					"created_at": "Tue Jun 25 01:24:42 +0000 2013",
+					"favourites_count": 17684,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 7790,
+					"lang": null,
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1267142252222169088/OcPBlPhV_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267142252222169088/OcPBlPhV_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1544471214/1537729780",
+					"profile_link_color": "FA743E",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none",
+					"withheld_in_countries": []
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 28,
+				"favorite_count": 142,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Sep 28 20:12:07 +0000 2021",
+			"id": 1442945234619359200,
+			"id_str": "1442945234619359238",
+			"text": "to ever this rihanna is … ☹️ https://t.co/Eu6TkbVvy6 https://t.co/5fxq5iIeob",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5fxq5iIeob",
+						"expanded_url": "https://twitter.com/xyz_valerie/status/1442942618556461057",
+						"display_url": "twitter.com/xyz_valerie/st…",
+						"indices": [
+							53,
+							76
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1440013576140382200,
+						"id_str": "1440013576140382217",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1440013576140382217/pu/img/vrRVwf-U2Au634PP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1440013576140382217/pu/img/vrRVwf-U2Au634PP.jpg",
+						"url": "https://t.co/Eu6TkbVvy6",
+						"display_url": "pic.twitter.com/Eu6TkbVvy6",
+						"expanded_url": "https://twitter.com/niggativebts/status/1440013585032298497/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 576,
+								"h": 290,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 290,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 576,
+								"h": 290,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1440013585032298500,
+						"source_status_id_str": "1440013585032298497",
+						"source_user_id": 1148755901534412800,
+						"source_user_id_str": "1148755901534412802"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1440013576140382200,
+						"id_str": "1440013576140382217",
+						"indices": [
+							29,
+							52
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1440013576140382217/pu/img/vrRVwf-U2Au634PP.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1440013576140382217/pu/img/vrRVwf-U2Au634PP.jpg",
+						"url": "https://t.co/Eu6TkbVvy6",
+						"display_url": "pic.twitter.com/Eu6TkbVvy6",
+						"expanded_url": "https://twitter.com/niggativebts/status/1440013585032298497/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 576,
+								"h": 290,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 576,
+								"h": 290,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 576,
+								"h": 290,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1440013585032298500,
+						"source_status_id_str": "1440013585032298497",
+						"source_user_id": 1148755901534412800,
+						"source_user_id_str": "1148755901534412802",
+						"video_info": {
+							"aspect_ratio": [
+								288,
+								145
+							],
+							"duration_millis": 6000,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1440013576140382217/pu/vid/576x290/PYSGIgL0jjV-cpZs.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1440013576140382217/pu/pl/ZooutoTjxG5qP4pr.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1440013576140382217/pu/vid/536x270/cEBGbJBFHOTNll_N.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1260052146457841700,
+				"id_str": "1260052146457841664",
+				"name": "val 188/360 ☽☾",
+				"screen_name": "xyz_valerie",
+				"location": "genshin leaks as well",
+				"description": "they/ them no fem terms + black + minor + carrd byf https://t.co/1YKD6qSMns + priv: @abc_valerie",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1YKD6qSMns",
+								"expanded_url": "http://xyzvalerie.carrd.co",
+								"display_url": "xyzvalerie.carrd.co",
+								"indices": [
+									52,
+									75
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 118,
+				"friends_count": 209,
+				"listed_count": 1,
+				"created_at": "Tue May 12 03:40:27 +0000 2020",
+				"favourites_count": 64799,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19620,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1418137909484564483/jL1vVzQg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1418137909484564483/jL1vVzQg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1260052146457841664/1626945401",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1442942618556461000,
+			"quoted_status_id_str": "1442942618556461057",
+			"quoted_status": {
+				"created_at": "Tue Sep 28 20:01:43 +0000 2021",
+				"id": 1442942618556461000,
+				"id_str": "1442942618556461057",
+				"text": "why is it litterally EVERY time i find a new crush i hear they talking to sum1 else https://t.co/8s1MiED9vW",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 1442942612298629000,
+							"id_str": "1442942612298629121",
+							"indices": [
+								84,
+								107
+							],
+							"media_url": "http://pbs.twimg.com/tweet_video_thumb/FAZcqS1VgAEUepy.jpg",
+							"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FAZcqS1VgAEUepy.jpg",
+							"url": "https://t.co/8s1MiED9vW",
+							"display_url": "pic.twitter.com/8s1MiED9vW",
+							"expanded_url": "https://twitter.com/xyz_valerie/status/1442942618556461057/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 220,
+									"h": 176,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 220,
+									"h": 176,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 220,
+									"h": 176,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1442942612298629000,
+							"id_str": "1442942612298629121",
+							"indices": [
+								84,
+								107
+							],
+							"media_url": "http://pbs.twimg.com/tweet_video_thumb/FAZcqS1VgAEUepy.jpg",
+							"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FAZcqS1VgAEUepy.jpg",
+							"url": "https://t.co/8s1MiED9vW",
+							"display_url": "pic.twitter.com/8s1MiED9vW",
+							"expanded_url": "https://twitter.com/xyz_valerie/status/1442942618556461057/photo/1",
+							"type": "animated_gif",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 220,
+									"h": 176,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 220,
+									"h": 176,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 220,
+									"h": 176,
+									"resize": "fit"
+								}
+							},
+							"video_info": {
+								"aspect_ratio": [
+									5,
+									4
+								],
+								"variants": [
+									{
+										"bitrate": 0,
+										"content_type": "video/mp4",
+										"url": "https://video.twimg.com/tweet_video/FAZcqS1VgAEUepy.mp4"
+									}
+								]
+							}
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1260052146457841700,
+					"id_str": "1260052146457841664",
+					"name": "val 188/360 ☽☾",
+					"screen_name": "xyz_valerie",
+					"location": "genshin leaks as well",
+					"description": "they/ them no fem terms + black + minor + carrd byf https://t.co/1YKD6qSMns + priv: @abc_valerie",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/1YKD6qSMns",
+									"expanded_url": "http://xyzvalerie.carrd.co",
+									"display_url": "xyzvalerie.carrd.co",
+									"indices": [
+										52,
+										75
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 118,
+					"friends_count": 209,
+					"listed_count": 1,
+					"created_at": "Tue May 12 03:40:27 +0000 2020",
+					"favourites_count": 64799,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 19620,
+					"lang": null,
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1418137909484564483/jL1vVzQg_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1418137909484564483/jL1vVzQg_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1260052146457841664/1626945401",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none",
+					"withheld_in_countries": []
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 0,
+				"favorite_count": 0,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Sep 28 20:12:06 +0000 2021",
+			"id": 1442945230966190000,
+			"id_str": "1442945230966190080",
+			"text": "RT @DejonNoMustard: Somebody had passed away on FB and ppl were commenting RIH. My stupid ass was like, “i mean same but why is everyone st…",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DejonNoMustard",
+						"name": "Anal Pfizer",
+						"id": 255780782,
+						"id_str": "255780782",
+						"indices": [
+							3,
+							18
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 118925283,
+				"id_str": "118925283",
+				"name": "big pumpkin spice",
+				"screen_name": "msbigmilk",
+				"location": "with your lavendar",
+				"description": "YT. All Black Lives Matter.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1495,
+				"friends_count": 341,
+				"listed_count": 15,
+				"created_at": "Tue Mar 02 03:45:29 +0000 2010",
+				"favourites_count": 7669,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 93844,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "AFC9E0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1441428336169811972/IicWqVn7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1441428336169811972/IicWqVn7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/118925283/1628890926",
+				"profile_link_color": "213352",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Tue Sep 28 20:03:23 +0000 2021",
+				"id": 1442943038196629500,
+				"id_str": "1442943038196629504",
+				"text": "Somebody had passed away on FB and ppl were commenting RIH. My stupid ass was like, “i mean same but why is everyon… https://t.co/OUj7wbwQoL",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/OUj7wbwQoL",
+							"expanded_url": "https://twitter.com/i/web/status/1442943038196629504",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "en",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 255780782,
+					"id_str": "255780782",
+					"name": "Anal Pfizer",
+					"screen_name": "DejonNoMustard",
+					"location": "The hoe stroll, CA",
+					"description": "no substance here, just mania and memes. 🐝 ♋️",
+					"url": "https://t.co/iTc7RplofW",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/iTc7RplofW",
+									"expanded_url": "http://instgram.com/dlmx559",
+									"display_url": "instgram.com/dlmx559",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 3049,
+					"friends_count": 610,
+					"listed_count": 35,
+					"created_at": "Tue Feb 22 01:31:06 +0000 2011",
+					"favourites_count": 37109,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 174459,
+					"lang": null,
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "DCD5A9",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1393920074411503620/1vrIu8QK_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1393920074411503620/1vrIu8QK_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/255780782/1551666438",
+					"profile_link_color": "000000",
+					"profile_sidebar_border_color": "000000",
+					"profile_sidebar_fill_color": "BF2F2F",
+					"profile_text_color": "000000",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none",
+					"withheld_in_countries": []
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 6,
+				"favorite_count": 6,
+				"favorited": false,
+				"retweeted": false,
+				"lang": "en"
+			},
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		{
+			"created_at": "Tue Sep 28 20:12:05 +0000 2021",
+			"id": 1442945228315394000,
+			"id_str": "1442945228315394051",
+			"text": "RT @pinaking01: Rt pour les brochette et fav pour Rihanna https://t.co/o5v02YKGij",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "pinaking01",
+						"name": "pinaking",
+						"id": 1231856894391865300,
+						"id_str": "1231856894391865347",
+						"indices": [
+							3,
+							14
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1432987483109744600,
+						"id_str": "1432987483109744641",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/E-L-hgpWYAET3Ql.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-L-hgpWYAET3Ql.jpg",
+						"url": "https://t.co/o5v02YKGij",
+						"display_url": "pic.twitter.com/o5v02YKGij",
+						"expanded_url": "https://twitter.com/pinaking01/status/1432987502617538561/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1432987502617538600,
+						"source_status_id_str": "1432987502617538561",
+						"source_user_id": 1231856894391865300,
+						"source_user_id_str": "1231856894391865347"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1432987483109744600,
+						"id_str": "1432987483109744641",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/E-L-hgpWYAET3Ql.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-L-hgpWYAET3Ql.jpg",
+						"url": "https://t.co/o5v02YKGij",
+						"display_url": "pic.twitter.com/o5v02YKGij",
+						"expanded_url": "https://twitter.com/pinaking01/status/1432987502617538561/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 576,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1432987502617538600,
+						"source_status_id_str": "1432987502617538561",
+						"source_user_id": 1231856894391865300,
+						"source_user_id_str": "1231856894391865347"
+					},
+					{
+						"id": 1432987483084673000,
+						"id_str": "1432987483084673024",
+						"indices": [
+							58,
+							81
+						],
+						"media_url": "http://pbs.twimg.com/media/E-L-hgjX0AAfEdy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-L-hgjX0AAfEdy.jpg",
+						"url": "https://t.co/o5v02YKGij",
+						"display_url": "pic.twitter.com/o5v02YKGij",
+						"expanded_url": "https://twitter.com/pinaking01/status/1432987502617538561/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 712,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 712,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 473,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1432987502617538600,
+						"source_status_id_str": "1432987502617538561",
+						"source_user_id": 1231856894391865300,
+						"source_user_id_str": "1231856894391865347"
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "fr",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1295846680768766000,
+				"id_str": "1295846680768765956",
+				"name": "ami.k",
+				"screen_name": "badbitchfromci",
+				"location": "Côte d'Ivoire ",
+				"description": "Insta: _amig.k_.                 Take care of yourself , it’s the most important ❤️",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11,
+				"friends_count": 79,
+				"listed_count": 0,
+				"created_at": "Tue Aug 18 22:15:15 +0000 2020",
+				"favourites_count": 1772,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 255,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1351001421978755072/jv_D8EDN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1351001421978755072/jv_D8EDN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1295846680768765956/1597891310",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Wed Sep 01 08:43:38 +0000 2021",
+				"id": 1432987502617538600,
+				"id_str": "1432987502617538561",
+				"text": "Rt pour les brochette et fav pour Rihanna https://t.co/o5v02YKGij",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 1432987483109744600,
+							"id_str": "1432987483109744641",
+							"indices": [
+								42,
+								65
+							],
+							"media_url": "http://pbs.twimg.com/media/E-L-hgpWYAET3Ql.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/E-L-hgpWYAET3Ql.jpg",
+							"url": "https://t.co/o5v02YKGij",
+							"display_url": "pic.twitter.com/o5v02YKGij",
+							"expanded_url": "https://twitter.com/pinaking01/status/1432987502617538561/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 576,
+									"h": 1024,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 383,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 576,
+									"h": 1024,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1432987483109744600,
+							"id_str": "1432987483109744641",
+							"indices": [
+								42,
+								65
+							],
+							"media_url": "http://pbs.twimg.com/media/E-L-hgpWYAET3Ql.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/E-L-hgpWYAET3Ql.jpg",
+							"url": "https://t.co/o5v02YKGij",
+							"display_url": "pic.twitter.com/o5v02YKGij",
+							"expanded_url": "https://twitter.com/pinaking01/status/1432987502617538561/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 576,
+									"h": 1024,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 383,
+									"h": 680,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 576,
+									"h": 1024,
+									"resize": "fit"
+								}
+							}
+						},
+						{
+							"id": 1432987483084673000,
+							"id_str": "1432987483084673024",
+							"indices": [
+								42,
+								65
+							],
+							"media_url": "http://pbs.twimg.com/media/E-L-hgjX0AAfEdy.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/E-L-hgjX0AAfEdy.jpg",
+							"url": "https://t.co/o5v02YKGij",
+							"display_url": "pic.twitter.com/o5v02YKGij",
+							"expanded_url": "https://twitter.com/pinaking01/status/1432987502617538561/photo/1",
+							"type": "photo",
+							"sizes": {
+								"large": {
+									"w": 712,
+									"h": 1024,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 712,
+									"h": 1024,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 473,
+									"h": 680,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "fr",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1231856894391865300,
+					"id_str": "1231856894391865347",
+					"name": "pinaking",
+					"screen_name": "pinaking01",
+					"location": "planète Mars",
+					"description": "L'amour de soi est le meilleur amour 💜☠️💀",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 6187,
+					"friends_count": 2506,
+					"listed_count": 0,
+					"created_at": "Mon Feb 24 08:24:45 +0000 2020",
+					"favourites_count": 35038,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 14630,
+					"lang": null,
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1441481798551175172/mgiR7wKz_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1441481798551175172/mgiR7wKz_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1231856894391865347/1632074461",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none",
+					"withheld_in_countries": []
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 913,
+				"favorite_count": 816,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "fr"
+			},
+			"is_quote_status": false,
+			"retweet_count": 913,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": true,
+			"lang": "fr"
+		},
+		{
+			"created_at": "Tue Sep 28 20:11:52 +0000 2021",
+			"id": 1442945170941436000,
+			"id_str": "1442945170941435906",
+			"text": "RT @SexoPlacentero: Rihanna https://t.co/izJzh3jdTX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SexoPlacentero",
+						"name": "niñas lindas para curar la depresión",
+						"id": 443891291,
+						"id_str": "443891291",
+						"indices": [
+							3,
+							18
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1430550763290382300,
+						"id_str": "1430550763290382340",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/E9pWVv8WUAQdAUT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E9pWVv8WUAQdAUT.jpg",
+						"url": "https://t.co/izJzh3jdTX",
+						"display_url": "pic.twitter.com/izJzh3jdTX",
+						"expanded_url": "https://twitter.com/SexoPlacentero/status/1430550770148073477/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 462,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 801,
+								"h": 1178,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 801,
+								"h": 1178,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1430550770148073500,
+						"source_status_id_str": "1430550770148073477",
+						"source_user_id": 443891291,
+						"source_user_id_str": "443891291"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1430550763290382300,
+						"id_str": "1430550763290382340",
+						"indices": [
+							28,
+							51
+						],
+						"media_url": "http://pbs.twimg.com/media/E9pWVv8WUAQdAUT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E9pWVv8WUAQdAUT.jpg",
+						"url": "https://t.co/izJzh3jdTX",
+						"display_url": "pic.twitter.com/izJzh3jdTX",
+						"expanded_url": "https://twitter.com/SexoPlacentero/status/1430550770148073477/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 462,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 801,
+								"h": 1178,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 801,
+								"h": 1178,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1430550770148073500,
+						"source_status_id_str": "1430550770148073477",
+						"source_user_id": 443891291,
+						"source_user_id_str": "443891291"
+					}
+				]
+			},
+			"metadata": {
+				"iso_language_code": "is",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 932914530,
+				"id_str": "932914530",
+				"name": "𝓵𝓮𝓽",
+				"screen_name": "naosoulet",
+				"location": "Brasília, Brasil",
+				"description": "quem gostou bate palma quem não gostou paciência // lp.cunha",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1271,
+				"friends_count": 1052,
+				"listed_count": 10,
+				"created_at": "Wed Nov 07 20:56:44 +0000 2012",
+				"favourites_count": 65202,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 60084,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1424524277144039430/Sk0Pu8op_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424524277144039430/Sk0Pu8op_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/932914530/1628464762",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"retweeted_status": {
+				"created_at": "Wed Aug 25 15:20:56 +0000 2021",
+				"id": 1430550770148073500,
+				"id_str": "1430550770148073477",
+				"text": "Rihanna https://t.co/izJzh3jdTX",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 1430550763290382300,
+							"id_str": "1430550763290382340",
+							"indices": [
+								8,
+								31
+							],
+							"media_url": "http://pbs.twimg.com/media/E9pWVv8WUAQdAUT.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/E9pWVv8WUAQdAUT.jpg",
+							"url": "https://t.co/izJzh3jdTX",
+							"display_url": "pic.twitter.com/izJzh3jdTX",
+							"expanded_url": "https://twitter.com/SexoPlacentero/status/1430550770148073477/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 462,
+									"h": 680,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 801,
+									"h": 1178,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 801,
+									"h": 1178,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1430550763290382300,
+							"id_str": "1430550763290382340",
+							"indices": [
+								8,
+								31
+							],
+							"media_url": "http://pbs.twimg.com/media/E9pWVv8WUAQdAUT.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/E9pWVv8WUAQdAUT.jpg",
+							"url": "https://t.co/izJzh3jdTX",
+							"display_url": "pic.twitter.com/izJzh3jdTX",
+							"expanded_url": "https://twitter.com/SexoPlacentero/status/1430550770148073477/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 462,
+									"h": 680,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 801,
+									"h": 1178,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 801,
+									"h": 1178,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"metadata": {
+					"iso_language_code": "is",
+					"result_type": "recent"
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 443891291,
+					"id_str": "443891291",
+					"name": "niñas lindas para curar la depresión",
+					"screen_name": "SexoPlacentero",
+					"location": "",
+					"description": "Si tienes la mente abierta, esto es para ti.",
+					"url": "https://t.co/OpOZGvWHTZ",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/OpOZGvWHTZ",
+									"expanded_url": "http://bit.ly/2vYkXFH",
+									"display_url": "bit.ly/2vYkXFH",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 587322,
+					"friends_count": 0,
+					"listed_count": 902,
+					"created_at": "Thu Dec 22 17:14:04 +0000 2011",
+					"favourites_count": 552,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": false,
+					"statuses_count": 63595,
+					"lang": null,
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1371890697716916225/oweA1WNC_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1371890697716916225/oweA1WNC_normal.jpg",
+					"profile_link_color": "ABB8C2",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "E6F6F9",
+					"profile_text_color": "333333",
+					"profile_use_background_image": false,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none",
+					"withheld_in_countries": []
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 112,
+				"favorite_count": 1746,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": true,
+				"lang": "is"
+			},
+			"is_quote_status": false,
+			"retweet_count": 112,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "is"
+		},
+		{
+			"created_at": "Tue Sep 28 20:11:49 +0000 2021",
+			"id": 1442945161344929800,
+			"id_str": "1442945161344929793",
+			"text": "@mcpipita 😂😂😂 Rihanna is weeping after listening to this",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mcpipita",
+						"name": "Pipi",
+						"id": 1735095067,
+						"id_str": "1735095067",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"metadata": {
+				"iso_language_code": "en",
+				"result_type": "recent"
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1442826608704954400,
+			"in_reply_to_status_id_str": "1442826608704954371",
+			"in_reply_to_user_id": 1735095067,
+			"in_reply_to_user_id_str": "1735095067",
+			"in_reply_to_screen_name": "mcpipita",
+			"user": {
+				"id": 961510017110339600,
+				"id_str": "961510017110339584",
+				"name": "Paddy Otieno 🇰🇪🇺🇸",
+				"screen_name": "PaddyOtieno",
+				"location": "Kenya",
+				"description": "A man who seeks knowledge at all times",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1310,
+				"friends_count": 2655,
+				"listed_count": 0,
+				"created_at": "Thu Feb 08 08:00:26 +0000 2018",
+				"favourites_count": 46779,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4242,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1419067835423379467/AtZtUTHd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419067835423379467/AtZtUTHd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/961510017110339584/1521020429",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		}
+	],
+	"search_metadata": {
+		"completed_in": 0.055,
+		"max_id": 1442945320648777700,
+		"max_id_str": "1442945320648777729",
+		"next_results": "?max_id=1442945161344929792&q=Rihanna%20since%3A2021-09-25&count=10&include_entities=1",
+		"query": "Rihanna+since%3A2021-09-25",
+		"refresh_url": "?since_id=1442945320648777729&q=Rihanna%20since%3A2021-09-25&include_entities=1",
+		"count": 10,
+		"since_id": 0,
+		"since_id_str": "0"
+	}
+}
