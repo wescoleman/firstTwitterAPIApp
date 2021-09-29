@@ -23,4 +23,6 @@ These are asynchronous functions for sentiment analysis on text and it was fun t
 due to their asynchronicity I was struggling to get the simple res.send() function to output to the page properly because I need to work with that in a synchronus manner instead. later on this may not be an issue as I might be dynamically updating HTML or something along those lines
 
 In this code included the first line of I Feel Pretty from West Side Story and showed the sentiment analysis
+
+I included a picture of the sentiment analysis of that line on the /GLNP page. the picture is in the "other files" folder
  
