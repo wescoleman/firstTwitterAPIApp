@@ -14,7 +14,7 @@ var output = westSideStory + '<div></div>' + 'Sentiment: '
 
 nlp.analyzeSentiment( westSideStory )
     .then((sentiment)=>{
-        console.log( 'Sentiment:', sentiment );
+        // console.log( 'Sentiment:', sentiment );
         output = output + JSON.stringify(sentiment.documentSentiment) + '<div></div>'
     })
     .catch(function( error ) {

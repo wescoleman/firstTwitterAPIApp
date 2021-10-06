@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="p5/p5.min.js"></script>
+    <script src="p5/p5.dom.min.js"></script>
+    <script src="p5/p5.sound.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="sketches/tweetSonic/CSS/style.css">
+    <meta charset="utf-8" />
+
+  </head>
+  <body>\
+
+  	<script src="sketches/tweetSonic/sketch/sketch.js"></script>
+    <script src="sketches/tweetSonic/sketch/Functions.js"></script>
+    <script src="sketches/tweetSonic/sketch/OscBall.js"></script>
+    <script type="text/javascript"> 
+  		var twitData = <%-JSON.stringify(td);%> 
+  		var sentiData = <%-JSON.stringify(sd);%>
+  	</script>
+    
+
+    <button type="button" id = "startBtn"class="btn btn-secondary">Start</button>
+    <button type="button" id = "stopBtn" class="btn btn-secondary">Stop</button>
+  </body>
+</html>
