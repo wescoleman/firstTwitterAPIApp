@@ -1,5 +1,6 @@
 var express = require("express"),
-    app = express();
+    app = express(),
+    bodyParser = require('body-parser');
 require('dotenv').config();
 const path = require('path'); 
 
@@ -9,6 +10,8 @@ var gnlpRoute = require('./routes/gnlp'),
     tweetSonicRoute = require('./routes/tweetSonic');
 
 
+app.use(bodyParser.urlencoded({ extended: true }));
+app.use(bodyParser.json());
 app.use(express.static('public'));
 
 // set folder to find html ejs files

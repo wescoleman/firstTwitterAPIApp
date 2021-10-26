@@ -5,6 +5,10 @@ var chromScale,
     sad,
     contemplative;
 
+let textInput,
+    submitButton,
+    postData;
+
 function setup() {
   createCanvas(window.innerWidth, window.innerHeight);
   gradientBackground();
@@ -15,6 +19,17 @@ function setup() {
   happy = false;
   sad = false;
   contemplative = false; 
+
+  submitButton = createButton('submit');
+  submitButton.position((width+400)/2, height/2);
+  textInput = createInput('');
+  textInput.position(width/2, height/2);
+
+  submitButton.mousePressed(()=>{
+    postData = { txt: textInput.value() };
+    // console.log(postData);
+    httpPost('/tweetSonic', 'json', postData, (res)=>{});
+  });
 
   var startButton = document.getElementById('startBtn');
   var stopButton = document.getElementById('stopBtn');

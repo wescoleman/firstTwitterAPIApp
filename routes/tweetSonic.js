@@ -30,9 +30,29 @@ const features = {
     sentiment: true
 }
 
-router.get('/tweetSonic', function(req, res) {
+router.get('/tweetSonic', (req, res)=>{
     tweets = "";
-    T.getSearchTweets({ q: 'trump since:2021-01-25', geocode: '42,-71,100mi',count: 100})
+    T.getSearchTweets({ q: ' since:2021-01-25', geocode: '42,-71,100mi',count: 100})
+        .then (( data)=>{
+            for (var i = 0; i < data.statuses.length; i++) {
+                tweets = tweets + data.statuses[i].text +'\n';
+            }
+            nlp.analyzeSentiment( tweets )
+                .then((sentiment)=>{
+                    // console.log(sentiment);
+                    res.render('tweetSonic',{td : tweets, sd: sentiment });;
+                })
+                .catch(function( error ) {
+                    // console.log( 'Error:', error.message );
+                })
+        })    
+});
+
+router.post('/tweetSonic', (req, res)=>{
+    tweets = "";
+    console.log(req.body.txt);
+    qstring = req.body.txt +' since:2021-01-25'
+    T.getSearchTweets({ q: qstring, geocode: '42,-71,100mi',count: 100})
         .then (( data)=>{
             for (var i = 0; i < data.statuses.length; i++) {
                 tweets = tweets + data.statuses[i].text +'\n';
@@ -45,7 +65,7 @@ router.get('/tweetSonic', function(req, res) {
                 .catch(function( error ) {
                     console.log( 'Error:', error.message );
                 })
-        })    
+        })   
 });
 
 module.exports = router;
